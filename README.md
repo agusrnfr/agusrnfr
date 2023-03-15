@@ -3,7 +3,7 @@
   <img align="center" src="https://lh4.googleusercontent.com/eGOgebKEdmLC-c-w8mZ1haFzy_5SQn15Hxx6XIhhCeFicwrKDwXGKVHg-bQCWbnaKGRaqwfHILf7ni6sV4YHwuyi9VEcvtn0p3jicqPZbvFZqtlJq4ZmzTj1UXkD5II54WcgevGe"/>
 </p>
 
-<h4 align="center">Soy Agustina Rojas, estudiante de "Licencitura en Informatica" en la UNLP. Entusiasta de Lana Del Rey, Taylor Swift y los gatos. </h4>
+<h4 align="center">Soy Agustina Rojas, estudiante de "Licenciatura en Informatica" en la UNLP. Entusiasta de Lana Del Rey, Taylor Swift y los gatos. </h4>
 
 - 🌱 Actualmente estoy aprendiendo **React y Python**
 
