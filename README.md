@@ -19,43 +19,40 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrnfr&langs_count=10&theme=tokyonight&layout=compact" alt="agusrnfr :: Top Langs" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrnfr&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=agusrnfr&show_icons=true&theme=synthwave" alt="agusrnfr :: Profile Stats" /></p>
-
-<h4 align="center">Visitas</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{agurfnr}/count.svg" alt="agusrnfr :: Visitor's Count" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=agusrnfr&show_icons=true&theme=dark" alt="agusrnfr :: Profile Stats" /></p>
 
 <h2 align="center">Facultad</h2>
-  <div align="center">
+
+<div align="center">
     <h3>Segundo Año</h3>
     <a href="https://github.com/agusrnfr/AyED">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=AyED&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=AyED&theme=dark" />
     </a>  
     <a href="https://github.com/agusrnfr/FOD">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=FOD&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=FOD&theme=dark" />
     </a>  
     <a href="https://github.com/agusrnfr/JavaScript">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=JavaScript&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=JavaScript&theme=dark" />
     </a>  
     <a href="https://github.com/agusrnfr/ING-1">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ING-1&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ING-1&theme=dark" />
     </a>
     <a href="https://github.com/agusrnfr/OO1">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=OO1&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=OO1&theme=dark" />
     </a>
     <a href="https://github.com/agusrnfr/DBD">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=DBD&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=DBD&theme=dark" />
     </a>
     <a href="https://github.com/agusrnfr/ISO">
-      <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ISO&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ISO&theme=dark" />
     </a>
     <h3>Tercer Año</h3>
       <a href="https://github.com/agusrnfr/MATE-3">
-        <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=MATE-3&theme=dark" />
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=MATE-3&theme=dark" />
       </a>
       <a href="https://github.com/agusrnfr/CPLP">
-        <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CPLP&theme=dark" />
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CPLP&theme=dark" />
       </a>
-  </div>
+ </div>
