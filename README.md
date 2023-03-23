@@ -55,4 +55,7 @@
       <a href="https://github.com/agusrnfr/CPLP">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CPLP&theme=dark" />
       </a>
+      <a href="https://github.com/agusrnfr/OO2">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=OO2&theme=dark" />
+      </a>
  </div>
