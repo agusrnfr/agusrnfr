@@ -1,10 +1,8 @@
 <h1 align="center">¡Hola!👋</h1>
-<div>
-<h3 align="left">Cafecito:</h3>
+<h3>Cafecito:</h3>
   <p> ¡Si alguna vez te sirvio una practica invitame un cafecito! 😊</p>
     <p> AYUDAME A IR A VER A EVANESCENCE </p>
 <a href='https://cafecito.app/agusnfr' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
-</div>
 <p align="center">
   <img align="center" src="https://lh4.googleusercontent.com/eGOgebKEdmLC-c-w8mZ1haFzy_5SQn15Hxx6XIhhCeFicwrKDwXGKVHg-bQCWbnaKGRaqwfHILf7ni6sV4YHwuyi9VEcvtn0p3jicqPZbvFZqtlJq4ZmzTj1UXkD5II54WcgevGe"/>
 </p>
@@ -14,7 +12,12 @@
 
 - 📫 Informacion de contacto **agusrojasmc@gmail.com**
 
-<h3 align="left">Me podes encontrar en:</h3>
+<h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=261987860327038976)
+  </div>
+
+<h3>Me podes encontrar en:</h3>
 <p align="left">
 <a href="https://instagram.com/agusnfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agusnfr" height="30" width="40" /></a>
 </p>
