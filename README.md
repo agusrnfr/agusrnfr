@@ -14,7 +14,8 @@
 
 <h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=261987860327038976)
+[![Discord Presence](https://lanyard.cnrad.dev/api/261987860327038976?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/261987860327038976)
+
   </div>
 
 <h3>Me podes encontrar en:</h3>
