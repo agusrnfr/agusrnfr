@@ -10,7 +10,6 @@
 
 <h3>Cafecito:</h3>
   <p> ¡Si alguna vez te sirvio una practica invitame un cafecito! 😊</p>
-    <p> AYUDAME A IR A VER A BARBIE </p>
 <a href='https://cafecito.app/agusnfr' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 
 <h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
