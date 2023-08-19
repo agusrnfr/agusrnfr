@@ -70,4 +70,7 @@
         <a href="https://github.com/agusrnfr/ING-2">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ING-2&theme=dark" />
       </a>
+      <a href="https://github.com/agusrnfr/CyC">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CyC&theme=dark" />
+      </a>
  </div>
