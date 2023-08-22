@@ -73,4 +73,7 @@
       <a href="https://github.com/agusrnfr/CyC">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CyC&theme=dark" />
       </a>
+      <a href="https://github.com/agusrnfr/RyC">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=RyC&theme=dark" />
+      </a>
  </div>
