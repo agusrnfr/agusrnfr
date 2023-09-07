@@ -76,4 +76,7 @@
       <a href="https://github.com/agusrnfr/RyC">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=RyC&theme=dark" />
       </a>
+        <a href="https://github.com/agusrnfr/Programacion-Concurrente">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Programacion-Concurrente&theme=dark" />
+      </a>
  </div>
