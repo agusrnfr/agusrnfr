@@ -79,4 +79,14 @@
         <a href="https://github.com/agusrnfr/Programacion-Concurrente">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Programacion-Concurrente&theme=dark" />
       </a>
+    <h3>Cuarto Año</h3>
+      <a href="https://github.com/agusrnfr/Sistemas-Paralelos">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Sistemas-Paralelos&theme=dark" />
+      </a>
+      <a href="https://github.com/agusrnfr/Sistemas-Operativos">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Sistemas-Operativos&theme=dark" />
+      </a>
+      <a href="https://github.com/agusrnfr/TCVP">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=TCVP&theme=dark" />
+      </a>
  </div>
