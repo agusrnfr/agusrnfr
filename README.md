@@ -89,4 +89,13 @@
       <a href="https://github.com/agusrnfr/TCVP">
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=TCVP&theme=dark" />
       </a>
+      <a href="https://github.com/agusrnfr/MATE-4">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=MATE-4&theme=dark" />
+      </a>
+      <a href="https://github.com/agusrnfr/LeIA">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=LeIA&theme=dark" />
+      </a>
+      <a href="https://github.com/agusrnfr/Laboratorio-De-Software">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Laboratorio-De-Software&theme=dark" />
+      </a>
  </div>
