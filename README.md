@@ -8,12 +8,11 @@
 
 - 📫 Informacion de contacto **agusrojasmc@gmail.com**
 
-<h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
+- 💬 Preguntame sobre **programación, música y películas.** 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/261987860327038976?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/261987860327038976)
-
   </div>
-
+  
 <h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustina-srojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustina-srojas" height="30" width="40" /></a>
