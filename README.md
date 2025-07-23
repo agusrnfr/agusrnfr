@@ -26,11 +26,9 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusrnfr&show_icons=true&locale=en&layout=compact&theme=dark" alt="Estadísticas de lenguajes de agusrnfr" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrnfr&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agusrnfr&show_icons=true&locale=en&theme=dark" alt="Estadísticas de perfil de agusrnfr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agusrnfr&theme=dark" alt="Estadísticas de rachas de agusrnfr" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=agusrnfr&show_icons=true&theme=dark" alt="agusrnfr :: Profile Stats" /></p>
 
 <h2 align="center">Facultad</h2>
 
