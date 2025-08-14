@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Soy Agustina Rojas, estudiante de "Licenciatura en Informatica" en la UNLP. Entusiasta de Lana Del Rey, Taylor Swift y los gatos.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Análisis de Datos**
+- 🚀 Actualmente Trainee Software Developer en **Despegar**
 
 - 📫 Informacion de contacto **agusrojasmc@gmail.com**
 
