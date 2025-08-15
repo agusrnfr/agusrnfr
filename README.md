@@ -18,6 +18,8 @@
 <a href="https://linkedin.com/in/agustina-srojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustina-srojas" height="30" width="40" /></a>
 <a href="https://instagram.com/agusnfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agusnfr" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/11148218064?si=ead29323237148cf&nd=1&dlsi=a0344b7a2cd54496" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="agusnfr" height="30" width="40" /></a>
+<!-- letterboxd-->
+<a href="https://letterboxd.com/agusnfr/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="agusnfr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -28,71 +30,3 @@
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrnfr&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=agusrnfr&show_icons=true&theme=dark" alt="agusrnfr :: Profile Stats" /></p>
-
-<h2 align="center">Facultad</h2>
-
-<div align="center">
-    <h3>Segundo Año</h3>
-    <a href="https://github.com/agusrnfr/AyED">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=AyED&theme=dark" />
-    </a>  
-    <a href="https://github.com/agusrnfr/FOD">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=FOD&theme=dark" />
-    </a>  
-    <a href="https://github.com/agusrnfr/JavaScript">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=JavaScript&theme=dark" />
-    </a>  
-    <a href="https://github.com/agusrnfr/ING-1">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ING-1&theme=dark" />
-    </a>
-    <a href="https://github.com/agusrnfr/OO1">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=OO1&theme=dark" />
-    </a>
-    <a href="https://github.com/agusrnfr/DBD">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=DBD&theme=dark" />
-    </a>
-    <a href="https://github.com/agusrnfr/ISO">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ISO&theme=dark" />
-    </a>
-    <h3>Tercer Año</h3>
-      <a href="https://github.com/agusrnfr/MATE-3">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=MATE-3&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/CPLP">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CPLP&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/OO2">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=OO2&theme=dark" />
-      </a>
-        <a href="https://github.com/agusrnfr/ING-2">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=ING-2&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/CyC">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=CyC&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/RyC">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=RyC&theme=dark" />
-      </a>
-        <a href="https://github.com/agusrnfr/Programacion-Concurrente">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Programacion-Concurrente&theme=dark" />
-      </a>
-    <h3>Cuarto Año</h3>
-      <a href="https://github.com/agusrnfr/Sistemas-Paralelos">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Sistemas-Paralelos&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/Sistemas-Operativos">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Sistemas-Operativos&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/TCVP">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=TCVP&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/MATE-4">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=MATE-4&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/LeIA">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=LeIA&theme=dark" />
-      </a>
-      <a href="https://github.com/agusrnfr/Laboratorio-De-Software">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=agusrnfr&repo=Laboratorio-De-Software&theme=dark" />
-      </a>
- </div>
