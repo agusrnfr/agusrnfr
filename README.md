@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&height=60&lines=Soy+Agustina+Rojas;Estudiante+y+Developer" alt="Typing SVG" /></a>
 </div>
 
-- 🚀 Actualmente soy **Trainee Software Developer** en **Despegar**
+- 🚀 Actualmente soy **Software Developer I** en **Despegar**
 
 - 📚 Estudiante de **Licenciatura en Informática** en la UNLP.
 
