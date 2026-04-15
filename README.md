@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh4.googleusercontent.com/eGOgebKEdmLC-c-w8mZ1haFzy_5SQn15Hxx6XIhhCeFicwrKDwXGKVHg-bQCWbnaKGRaqwfHILf7ni6sV4YHwuyi9VEcvtn0p3jicqPZbvFZqtlJq4ZmzTj1UXkD5II54WcgevGe" width="180px" style="border-radius: 50%"/>
+  <img src="https://lh4.googleusercontent.com/eGOgebKEdmLC-c-w8mZ1haFzy_5SQn15Hxx6XIhhCeFicwrKDwXGKVHg-bQCWbnaKGRaqwfHILf7ni6sV4YHwuyi9VEcvtn0p3jicqPZbvFZqtlJq4ZmzTj1UXkD5II54WcgevGe" width="180px"/>
 </div>
 
 <h1 align="center">¡Hola! 👋 Soy Agustina Rojas</h1>
