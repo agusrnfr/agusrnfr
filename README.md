@@ -32,7 +32,7 @@
 
 ## 👩‍💻 Sobre mí
 
-- 🚀 Actualmente soy **Software Developer I** en **Despegar**
+- 🚀 Actualmente soy **Software Developer II** en **Despegar**
 - 📚 Estudiante de **Licenciatura en Informática** en la **UNLP**
 - 🎵 Entusiasta de **Lana Del Rey**, **Taylor Swift** y los **gatos**
 - 💬 Preguntame sobre **programación, música y películas**
